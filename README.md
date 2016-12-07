@@ -1,2 +1,2 @@
 # angularjs-cource
-AngularJS project for a training course
+AngularJS project for a internal training course.
